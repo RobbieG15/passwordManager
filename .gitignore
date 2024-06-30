@@ -1,0 +1,5 @@
+key.key
+.venv/
+/.keys/
+/.passwords/
+src/__pycache__/
